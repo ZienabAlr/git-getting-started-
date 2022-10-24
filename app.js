@@ -8,3 +8,4 @@ function doSomethingElse() {
   console.log('do something else');
 }   
 doSomething();
+doSomethingElse (); 
